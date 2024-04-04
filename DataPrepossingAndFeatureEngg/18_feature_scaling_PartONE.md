@@ -12,5 +12,10 @@
 
 ছবিতে male height in feet, female heigt in feet and life span in year এই ৩ টা হচ্ছে ৩ টা feature । 
 
+**Scale:** Scale হচ্ছে (lowest value ~ column এর height value) । 
+
+- In **male height in feet** column scale হচ্ছে (0 ~ 8.5) । 
+- In **female height in feet** column এর scale হচ্ছে (0 ~ 170) । 
+- In **Life span in year** column এর scale হচ্ছে (0 ~ 41) । 
 
 
