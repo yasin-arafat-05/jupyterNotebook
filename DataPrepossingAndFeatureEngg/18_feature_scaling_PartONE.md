@@ -18,4 +18,13 @@
 - In **female height in feet** column এর scale হচ্ছে (0 ~ 170) । 
 - In **Life span in year** column এর scale হচ্ছে (0 ~ 41) । 
 
+# What is feature scaling?
+
+![Alt text](image-1.png)
+
+- **Feature scaling** হচ্ছে একটা method যার মাধ্যমে আমরা numerical feature কে scale করে (0-1) বা (-1~1) এ নিয়ে যায় । আগের উপরের ছবিতে numerical feature গুলোর unit আলাদা আলাদা ছিল(feet,year) । 
+
+- এইটা data preprocessing এর last step । 
+
+- আমরা feature scaling independent variable এর উপর apply করি । 
 
