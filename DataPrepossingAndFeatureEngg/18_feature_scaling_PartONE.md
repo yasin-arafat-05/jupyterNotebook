@@ -28,3 +28,5 @@
 
 - আমরা feature scaling independent variable এর উপর apply করি । 
 
+- আর আমরা feature scaling train data এর উপর apply করি । আর train and test data এর উপর আমরা যেই feature scaling করলাম সেইটা apply করবো বা feature transform করবো। 
+
