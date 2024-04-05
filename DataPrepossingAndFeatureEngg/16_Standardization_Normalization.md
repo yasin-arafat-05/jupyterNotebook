@@ -12,12 +12,13 @@
 
 # Why standardization?
 
-`Standarization is a part of feature scaling.`
+`Standarization is a part of feature caling.`
 
-![Alt text](image-5.png)
+![Alt text](image-7.png)
 
-আমরা এইটা করে থাকি যাতে mean = 0 and standard_deviation = 1 হয় । 
+- আমরা এইটা করে থাকি যাতে mean = 0 and standard_deviation = 1 হয় । 
 
+- যদি orginal dataset এর distribution normal হয় তাহলে এর standardization এর distribution ও normal হবে । আর যদি orginal dataset এর distribution skewed হয় তাহলে এর standardization এর distribution ও skewed হবে । 
 
 
 
