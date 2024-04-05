@@ -4,6 +4,11 @@
 
 ---
 
+[video_Link](https://youtu.be/85je4aCdYcE?feature=shared)
+
+
+<br>
+
 ## What is feature?
 
 `In machine learning, a feature (also known as an attribute or predictor) refers to an individual measurable property or characteristic of the data that is used as input for the machine learning model. Features are essentially the variables or columns in the dataset that contain relevant information about the observations or instances being studied.`
