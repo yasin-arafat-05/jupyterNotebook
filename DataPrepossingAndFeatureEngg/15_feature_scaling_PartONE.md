@@ -30,3 +30,21 @@
 
 - আর আমরা feature scaling train data এর উপর apply করি । আর train and test data এর উপর আমরা যেই feature scaling করলাম সেইটা apply করবো বা feature transform করবো। 
 
+# Why feature scaling?
+
+- আমাদের machine learning মডেল কোন feature এর unit বুঝতে পারে না । তারা শুধু numerical value বুঝতে পারে তাই আমাদের সব feature গুলোর value একই range এর মধ্যে থাকলে এরা ভালো output দিতে পারবে । 
+
+![Alt text](image-2.png)
+
+- আমাদের সকল machine learning algorithm কে scaling করা ডাটা দিতে হয় না । কিছু কিছু algorithm আছে তাদের কে শুধুই feature scaling করা ডাটা দিতে হয় । 
+
+![Alt text](image-3.png)
+
+`ছবিতে যেইসব ml algorithrm আছে তাদের সবাই কে feature scaling করা ডাটা হয় । `
+
+# Type of feature scaling:
+
+![Alt text](image-4.png)
+
+**আমরা maximum Standard Scaler and Min Max Scaler এই দুইটা feature scaling  সবচেয়ে বেশি ব্যবহার করি ।**
+
