@@ -10,3 +10,14 @@
 
 <br>
 
+# Why standardization?
+
+`Standarization is a part of feature scaling.`
+
+![Alt text](image-5.png)
+
+আমরা এইটা করে থাকি যাতে mean = 0 and standard_deviation = 1 হয় । 
+
+
+
+
