@@ -119,6 +119,54 @@ event B = first die shows odd Number.
 
 ![image](img/img10.png)
 
+<br>
 
+### `#2.6 Independent vs Dependent vs Mutually Exclusive Event: `
+
+**Independent Event:** একসাথে, Die, Fliping a coin random expriment এ, Die এ যাই আসুক না কেন Coin এ Head আসার probability always 1/2  হবে । একটার উপর আরেকটা নির্ভর করতেছে না । 
+
+For independent event (conditional probability),
+P(A|B) = P(A)
+P(B|A) = P(B)
+P(AnB) = P(A) * P(B)
+
+![image](img/img11.png)
+
+<br>
+
+**Dependent Event:** ৫২ কার্ড থেকে, যখন, একটা একটা কার্ড নিব । তখন, সেই কার্ডটা গুলোর মধ্যে টেক্কা হওয়ার সম্ভবনা আগের কার্ড উঠানোর উপর নির্ভর করবে । কারণ, একটা কার্ড উঠানোর পর সেইটা আর back করিনি ।  
+
+#### `আমরা এতক্ষন যা যা formula পড়েছি । সব গুলো, Dependent Event এর জন্য ।  `
+
+
+**Mutually Exclusive:** যদি একটা ঘটনা ঘটে তাহলে অন্যটা ঘটবে না । যেমনঃ coin flipping এর ক্ষেত্রে আমরা যদি head পায় । তাহলে আমরা কখনো tail পাবো না । এই ঘটনা কে আমরা বলতেছি, Mutually exclusive event . 
+
+<br>
+
+## `IMPORTANT: (***) `
+### `#2.7 Bayes Theorem: 
+
+![image](img/img12.png)
+
+---
+---
+
+<br>
+<br>
+
+---
+---
+
+![image_image](img/img13.png)
+
+পাশের ডাটাসেটের জন্য, একটা Male এর ক্ষেত্রে, তিনি কি বাচবেন নাকি মারা যাবেন ?? 
+
+**Solution:**
+conditional probability of, <br>
+P(1|M) `যদি male হয় তাহলে তার বার্চার সম্ভবনা কত?` <br>
+P(0|M) `যদি male হয় তাহলে তার মরার সম্ভবনা কত?` <br>
+যেইটার মান বেশি হবে সেইটা হবে উত্তর । 
+
+![image](img/img14.png)
 
 
