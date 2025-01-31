@@ -320,7 +320,7 @@ Q(s, a) = $\mathbb{E} [ R_t | S_t = s, A_t = a]$
 - সংজ্ঞা অনুসারে, $Q^*(s, a)$ নিম্নলিখিত সমীকরণ দ্বারা প্রকাশ করা হয়:
 
 
-$Q^*(s, a) = \sum_{s' \in S} T(s, a, s') R(s, a, s') + \gamma \sum_{s' \in S} T(s, a, s') V_{\pi^*}(s')$
+- Equation: $Q^*(s, a) = \sum_{s' \in S} T(s, a, s') R(s, a, s') + \gamma \sum_{s' \in S} T(s, a, s') V_{\pi^*}(s')$
 
 
   এখানে,  
