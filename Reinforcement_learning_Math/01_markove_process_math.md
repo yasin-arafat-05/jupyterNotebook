@@ -320,11 +320,13 @@ Q(s, a) = $\mathbb{E} [ R_t | S_t = s, A_t = a]$
 - সংজ্ঞা অনুসারে, $Q^*(s, a)$ নিম্নলিখিত সমীকরণ দ্বারা প্রকাশ করা হয়:
 
 
-- Equation: $Q^*(s, a)$ = $\sum_{s' \in S}$ $T(s, a, s') R(s, a, s')$ + $\gamma \sum_{s' \in S} T(s, a, s') V_{\pi^*}(s')$
+- Equation: 
+
+$Q^*(s, a)$ = $\sum_{s' \in S}$ $T(s, a, s')$ $R(s, a, s')$ + $\gamma \sum_{s' \in S}$ $T(s, a, s')$ $V_{\pi^*}(s')$
 
 
   এখানে,  
-  - $T(s, a, s')$  → s state থেকে  a  action নেওয়ার পর ( s' state-এ যাওয়ার সম্ভাবনা।  
+  - $T(s, a, s')$  → s state থেকে  a  action নেওয়ার পর  s' state-এ যাওয়ার সম্ভাবনা।  
   - **$R(s, a, s')$** → state s -এ action a নিলে  s' -এ যাওয়ার জন্য প্রাপ্ত reward।  
   - **$\gamma$** → **discount factor**, যা ভবিষ্যতের reward-এর গুরুত্ব নির্ধারণ করে।  
   - **$V_{\pi^*}(s')$** → **সেরা policy অনুসারে পরবর্তী state s'-এর জন্য value function।**  
