@@ -318,7 +318,7 @@ Q(s, a) = $\mathbb{E} [ R_t | S_t = s, A_t = a]$
 - এটি **MDP (Markov Decision Process)** এর মধ্যে নির্ধারিত হয়।  
 - সংজ্ঞা অনুসারে, $Q^*(s, a)$ নিম্নলিখিত সমীকরণ দ্বারা প্রকাশ করা হয়:
 
-  $Q^*(s, a)$ = $\sum_{s' \in S} T(s, a, s') R(s, a, s')$ + $\gamma \sum_{s' \in S} T(s, a, s') V_{\pi^*}(s')$
+$Q^*(s, a)$ = $\sum_{s' \in S} T(s, a, s') R(s, a, s')$ + $\gamma \sum_{s' \in S} T(s, a, s') V_{\pi^*}(s')$
 
   এখানে,  
   - $T(s, a, s')$  → s state থেকে  a  action নেওয়ার পর ( s' state-এ যাওয়ার সম্ভাবনা।  
