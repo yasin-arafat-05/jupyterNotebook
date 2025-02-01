@@ -1,3 +1,93 @@
+<br>
+<br>
+<br>
+<br>
+
+# `#01 Deep Learning VS Reinforcement Learning`
+
+
+### `**(1) Optimizer vs Optimum Policy:**` 
+🔹 **Deep Learning:**  
+ফিড-ফরোয়ার্ড নিউরাল নেটওয়ার্ক (FFN) বা কনভোলিউশনাল নিউরাল নেটওয়ার্ক (CNN)-এ আমাদের **Optimizer** (SGD, Adam, RMSProp) থাকে, যা **Loss Function মিনিমাইজ করে এবং Weight আপডেট করে।**  
+
+🔹 **Reinforcement Learning:**  
+RL-এ **Optimizer-এর সমতুল্য হলো Optimum Policy।**   
+আমরা এমন একটা **Policy $\pi^*$** খুঁজি, যা এজেন্টের জন্য **সর্বোচ্চ রিওয়ার্ড আনবে।**  
+
+💡 **তাহলে:**  
+FFN-এর **Optimizer** ≈ RL-এর **Optimum Policy Finding Methods (Q-learning, PPO, A2C, DQN, etc.)**  
+
+
+### `**(2) Parameter Update কিভাবে হয়? (Gradient Descent vs Bellman Equation):**`  
+🔹 **Deep Learning:**  
+DL-এ **Loss Function** ব্যবহার করে আমরা **Gradient Descent বা Adam Optimizer** দিয়ে **Weight আপডেট করি।**  
+
+🔹 **Reinforcement Learning:**  
+RL-এ **Loss Function নেই, বরং আমরা "Bellman Equation" ব্যবহার করি।**   
+Bellman Equation ব্যাকওয়ার্ড প্রপাগেশন-এর মতো কাজ করে, যা আগের Q-value আপডেট করে:  
+
+
+$Q(s, a)$ = $(1 - \alpha) Q(s, a) + \alpha (r + \gamma \max_{a'} Q(s', a'))$
+
+এটা Q-value কে আপডেট করে, যেটা এক ধরনের **"Parameter Update"**।
+
+💡 **তাহলে:**  
+FFN-এ **Backpropagation** ≈ RL-এ **Bellman Equation / Policy Gradient Update**  
+
+
+### `**(3) Loss Function-এর সমতুল্য কী RL-এ?**`  
+🔹 **Deep Learning:**  
+DL-এ **Loss Function (MSE, Cross-Entropy)** থাকে, যা **Prediction vs Ground Truth** তুলনা করে।  
+
+🔹 **Reinforcement Learning:**  
+RL-এ **Loss Function-এর বদলে Reward Maximization কাজ করে।**  
+আমরা এমন একটা **Q-value বা Policy** খুঁজছি, যা **সর্বোচ্চ কিউ-ভ্যালু বা সর্বোচ্চ রিওয়ার্ড আনবে।**  
+
+✅ **Deep Q-Network (DQN)**: এখানে **Loss Function থাকে** →  
+
+Loss = $(Q_{target} - Q(s, a))^2$
+এটা MSE-এর মতো কাজ করে।  
+
+✅ **Policy Gradient (PPO, A2C, REINFORCE)**: এখানে **Reward Maximization Loss Function** ব্যবহার করা হয়।  
+
+💡 **তাহলে:**  
+FFN-এর **Loss Function** ≈ RL-এ **Reward Maximization বা Q-value Approximation**  
+
+
+#### **(4) CNN / RNN-এর মতো RL-এ কেন DQN, PPO, A2C শিখছি?**  
+🔹 **Deep Learning:**  
+DL-এ আমরা বুঝেছি,  
+- **CNN → Image Processing এর জন্য**  
+- **RNN → Sequential Data এর জন্য**  
+- **Transformer → Long-term Dependency Capture এর জন্য**  
+
+🔹 **Reinforcement Learning:**  
+- **Q-learning → Discrete Action Space এর জন্য**  
+- **DQN → Deep Neural Network ব্যবহার করে Q-learning**  
+- **PPO, A2C → Continuous Action Space ও Policy-based Learning এর জন্য**  
+- **DDPG, SAC → Continuous Action Control (রোবটিক্স, গেমস)**  
+
+💡 **তাহলে:**  
+DL-এ **CNN ≈ RL-এ DQN (Deep Q-Learning)**  
+DL-এ **RNN ≈ RL-এ PPO (Policy Optimization for Sequential Actions)**  
+
+
+<br>
+
+---
+
+---
+
+---
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ![image](../img/img02.png)
 
