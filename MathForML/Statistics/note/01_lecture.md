@@ -17,6 +17,9 @@
 
 # `# Academic: `
 
+
+## [Bellal_Sir_PDF](https://drive.google.com/file/d/1zDIAstiWkrj1iiuPVYUXXUmO-qU_L_5R/view?usp=drive_link)
+
 ## `Chapter 1`
 
 - **Statistics definition (1 page)(Webster and other definitions available, one should be fine)**
