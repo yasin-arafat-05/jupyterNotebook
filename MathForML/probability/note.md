@@ -3,6 +3,10 @@
 
 # `#01: Lecture:01 Basic: `
 
+
+### ![Lecture_ONE_NOTE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/all_pdf/probability/lecture_01.pdf)
+
+
 <br>
 <br>
 
