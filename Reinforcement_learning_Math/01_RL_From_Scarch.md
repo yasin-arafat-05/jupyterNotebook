@@ -132,6 +132,40 @@ Formula, of Expectimax, V+= (probabilty * value ) ।   `আমরা, Expectima
 **But, we can do Depth-Limited Expectimax.**
 
 
- 
+# `# Revision Math:`
+
+## [Revise_Lecture_03_AND_Lecture_04](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/note/02_lecture.md) 
+
+## [Revise_this](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/probability/note.md)
+
+
+<br>
+<br>
+
+# `# Conditional Probability and Exceptation:`
+
+![image](Img/img21.png)
+
+![image](Img/img22.png)
+
+<br>
+<br>
+
+# `# Where we will use probability in pacman Game?`
+
+![image](Img/img23.png)
+
+
+# `# Question: (with simple answer):`
+
+![image](Img/img24.png)
+
+<br>
+<br>
+
+`In reality,` 
+
+![image](Img/img25.png)
+
 
 
