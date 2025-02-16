@@ -168,4 +168,55 @@ Formula, of Expectimax, V+= (probabilty * value ) ।   `আমরা, Expectima
 ![image](Img/img25.png)
 
 
+<br>
+
+# `# Utilites `
+
+Questions:
+- Where do utilites come from?
+- How do we know such utilities event exist?
+- How do we know averaging event makes sense?
+- What if our behavior(preferences) can't be described by utilites? 
+
+![image](Img/img26.png)
+
+![image](Img/img27.png)
+
+যেখানে আমরা, agent এর utilites(trees) ঠিক মতো বলতে পারতেছি না, যেখানে, agent এর  behaviour বলাটা অনেক কঠিন হবে । এইভাবে হাত, পা নাড়াতে হয়  etc.   
+
+ <br>
+
+![image](Img/img28.png)
+
+<br>
+
+১টা খাবার পর আমার আস্তে আস্তে utilites কমতে থাকবে কারণ আমার পেট ভরতে থাকবে । যখন, আমার পেট ভরে যাবে তখন আমি যদি জোর করেও আইস্কিম খায়, আমি তেমন বেশি utilites পাবো না কারণ, আমার পেট ভরা। Utilites অনেক complex একটা জিনিস । আমি কোন কাজ করার পর, কেমন খুশি হচ্ছি সেইটায় হচ্ছে আমার utilites। এই complex জিনিসটা বুঝার জন্য আমরা Preferences সম্পকে জানবো । 
+
+<br>
+
+# `# Preferences `
+
+![image](Img/img29.png)
+
+
+<br>
+
+
+![image](Img/img30.png)
+
+কোন agent এই ধরনের prefference কে follow করলে তাকে rational agent বলে । 
+
+Example: of not a rational agent.
+
+![image](Img/img31.png)
+
+<br>
+
+![image](Img/img32.png)
+![image](Img/img33.png)
+
+আমাদের কাছে কোন utilites হবে কি না । তার উত্তর দেয় হচ্ছে এই  MEU principle . 
+
+<br>
+
 
