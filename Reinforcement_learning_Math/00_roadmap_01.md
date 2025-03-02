@@ -288,8 +288,13 @@ keypoints from this video:
 - Unbias
 - Bias
 
+Monte Carlo Technique হলো একটি সম্ভাবনাভিত্তিক গণনামূলক পদ্ধতি যেটি random sampling এবং পরিসংখ্যান (statistics) ব্যবহার করে বিভিন্ন জটিল সমস্যার সমাধান করে। এই পদ্ধতির নামকরণ করা হয়েছে মোনাকোর বিখ্যাত ক্যাসিনো শহরের নামানুসারে, কারণ এতে randomness বা সম্ভাবনার ব্যবহার রয়েছে, যা জুয়া বা গেমিং-এর সাথে সম্পর্কিত।
+
 **Advantage**                 **Disadvantage**
 1. Versatile                   1. Computational Expensive
 
+**Monte Carlo Technique used in RL mainly based on two purpouse:**
+- Evaluate a policy 
+- Imporove a policy 
 
 

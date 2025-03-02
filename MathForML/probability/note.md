@@ -74,7 +74,8 @@
 
 <br>
 
-### `#2.5 Conditional Probability: `
+### `#2.5 Conditional Probability: (না মনে পড়লে  naive bias এর video গুলো একটু দেখবো 100 dayml থেকে )`
+
 **Conditional Probability:** দুইটা ঘটনা A and B এর মধ্যে যদি B হয়ে যায় তাহলে, A হওয়ার সম্ভাবনা যাকে P(A|B) প্রকাশ করা হয় ।  
 
 **Question:** `Three unbiased coins are tossed. What is the conditinal probability that at least two coins show heads, given that at least one coin shows heads?`
@@ -143,7 +144,7 @@ P(AnB) = P(A) * P(B)
 #### `আমরা এতক্ষন যা যা formula পড়েছি । সব গুলো, Dependent Event এর জন্য ।  `
 
 
-**Mutually Exclusive:** যদি একটা ঘটনা ঘটে তাহলে অন্যটা ঘটবে না । যেমনঃ coin flipping এর ক্ষেত্রে আমরা যদি head পায় । তাহলে আমরা কখনো tail পাবো না । এই ঘটনা কে আমরা বলতেছি, Mutually exclusive event . 
+**Mutually Exclusive:** যদি একটা ঘটনা ঘটে তাহলে অন্যটা ঘটবে না । যেমনঃ coin flipping এর ক্ষেত্রে আমরা যদি head পায় । তাহলে আমরা কখনো tail পাবো না । এই ঘটনা কে আমরা বলতেছি, Mutually exclusive event . `একই সাথে ঘটার কোন সম্ভবনা নেই । একই সাথে কখনো  head, tail উঠবে না ।`
 
 <br>
 
