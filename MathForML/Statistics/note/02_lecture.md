@@ -55,3 +55,39 @@
 
 
 
+<br>
+
+# Lecture: 08
+- Why Hypothesis Testing?
+- Null(H0) and Alternate Hypothesis(H1 or Ha)
+- Steps involved in Hypothesis Testing
+    - Rejection Region Approach
+        - Formulate a NUll and Alternate hypothesis 
+        - Select a signaficant level(usually set 5% or 1%)
+        - Check assumptions 
+        - Decide which test is appropriate(Z-test,T-test,Chi-square test,ANOVA)
+        - State the relevant test statistic 
+        - Conduct the test 
+        - Reject or not reject the Null Hupothesis
+        - Interpret the result 
+- CLT: Central Limit Theorm 
+- Performaing a Z test: Example 01
+- Performaing a Z test: Example 02
+- Rejection Region
+    - Problem with rejection region apporach
+- Type 1 vs Type 2 Error
+- One sided vs two sided test
+- Advantage and disadvatage of 1-or-2-type-sided-test
+- Where can be Hypothesis Testing Applied?
+- Hypothesis Testing ML Applications 
+
+
+
+## [PDF_LINK](https://drive.google.com/file/d/1cgv-L6zgtTQdPOHSRN5GFe8vRBOhUroX/view?usp=sharing)
+
+
+
+
+
+
+
