@@ -13,6 +13,10 @@
 
 ## [PDF_LINK](https://drive.google.com/file/d/1-I2K5U3MmHXH8VO3AQEyiZQ3GYHvG-dn/view?usp=drive_link)
 
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/02_lecture_02.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=1ndVC500-EU&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=5)
+
 <br>
 
 # Lecture: 03
@@ -31,6 +35,10 @@
 
 ## [PDF_LINK](https://drive.google.com/file/d/1i9QYK03PuWmfyku3KWonrqW2Cx_3UrXm/view?usp=sharing)
 
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/03_lecture.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=C_QAURbgBqY&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=4)
+
 <br>
 
 # Lecture: 04
@@ -45,15 +53,38 @@
 
 ## [PDF_LINK](https://drive.google.com/file/d/1A2M7ND2KhBs-A7lVICB8lscnJk_GrC6K/view?usp=sharing)
 
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/04_lecture.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=ADqYqSdtyW8&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=5)
 
 <br>
 
 # Lecture: 05
-- Non Gaussian Distribution
 
-## [PDF_LINK](https://drive.google.com/file/d/1fv5y2PwtKpms4rJjESq9DjDp8chReIH7/view?usp=sharing)
+- Kurtosis 
+    - moments
+    - false notation about kurtosis
+    - excess kurtosis
+    - type of kurtosis
+        - Leptokurtic
+        - Platykurtic
+        - Mesokurtic
+    - QQ plot: 
+        - Does qq plot only detect normal distribution
+        
+    - Uniform Distribution
+    - Log Normal Distribution 
+    - Pareto Distribution
+    - Transformations
+        - [from_ml_playlist](https://github.com/yasin-arafat-05/machine_learning/blob/main/note/30_mathematical_transformer.md)
+        - [from_ml_playlist](https://github.com/yasin-arafat-05/machine_learning/blob/main/note/31_power_transformer.md)
 
 
+## [PDF_LINK](https://drive.google.com/file/d/1nfzYMuIqfg9jmtof3Yw2acXakXw41dUv/view?usp=sharing)
+
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/05_lecture_05.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=U6QCc_3zgUk&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=7)
 
 <br>
 
@@ -86,7 +117,9 @@
 ## [PDF_LINK](https://drive.google.com/file/d/1cgv-L6zgtTQdPOHSRN5GFe8vRBOhUroX/view?usp=sharing)
 
 
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/08_lecture.ipynb)
 
+## [video_link](https://www.youtube.com/watch?v=S94mx6OL7kM&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=9)
 
 
 
