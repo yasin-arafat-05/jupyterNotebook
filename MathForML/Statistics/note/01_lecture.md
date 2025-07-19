@@ -10,8 +10,16 @@
 - **Bi-variate Analysis.**
 
 
-[pdf_link_MathForML](https://drive.google.com/file/d/1MsPGlKe27jv5ma3njfuPaASgmnkPKcBZ/view?usp=sharing)
+## [pdf_link_MathForML](https://drive.google.com/file/d/1MsPGlKe27jv5ma3njfuPaASgmnkPKcBZ/view?usp=sharing)
 
+## [video_link]()
+
+
+<br>
+
+# `#Academic Bellal Sir and Masud Sir`
+
+<br>
 
 # `# Why moment?`
 
