@@ -88,7 +88,62 @@
 
 <br>
 
+
+<br>
+
+# Lecture: 06
+
+- Bernoulli Distribution
+- PMF of Bernolli Distribution
+- Binomial Distribution
+- Sampling Distribution
+- CLT: Central Limit Theorem 
+
+
+## [note_link](https://drive.google.com/file/d/1gVZUJqOJDolsf_F8LfGq66KxxX77AKxD/view?usp=sharing)
+
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/06_lecture.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=-WmJDYBor7c&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=7)
+
+<br>
+
+# Lecture: 07
+- Some Terms:
+    - Population Vs Sample
+    - Parameter Vs Statics/Estimate
+    - Inferential Statistics
+- Point Estimate 
+- Problem with point estimation and intro to confident interval 
+- Confidence interval 
+- Confidence level
+- Way to calculate Confidence Interval 
+    - Z-Procedure 
+    - T-Procudure 
+- Example of Confidence Interval
+- Confidence Interval(Sigma Known)
+- Interpreting Confidence Interval 
+    - Confidence level
+    - Interval range 
+    - Interpretation
+- Factors Affecting Margin of Error 
+- Confident Interval(sigma not known)
+- Comparasion between Normal and t-distribution
+- Student's T Distribution
+
+
+## [pdf_link](https://drive.google.com/file/d/1tVgTT1bN0R8IVUU6VUBTTeuvAX_ZaHb4/view?usp=sharing)
+
+## [code_link](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/MathForML/Statistics/code/07_lecture.ipynb)
+
+## [video_link](https://www.youtube.com/watch?v=X52HK2qkiIE&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&index=8)
+
+<br>
+
+
 # Lecture: 08
+<br>
+
 - Why Hypothesis Testing?
 - Null(H0) and Alternate Hypothesis(H1 or Ha)
 - Steps involved in Hypothesis Testing
