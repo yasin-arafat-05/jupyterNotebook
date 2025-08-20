@@ -239,7 +239,7 @@ These algorithms brute-force their way through the search space systematically w
 
 <br>
 
-### [DLS_CODE_ONE]https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/04_dls_graph1.py)
+### [DLS_CODE_ONE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/04_dls_graph1.py)
 
 ### [DLS_CODE_TWO](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/5_dls_graph2.py)
 
@@ -256,6 +256,7 @@ These algorithms brute-force their way through the search space systematically w
 
 ## UCS: 
 ![image](Img/img88.jpg)
+
 ![image](Img/img89.jpg)
 
 <br>
@@ -266,9 +267,13 @@ These algorithms brute-force their way through the search space systematically w
 
 ## SPACE-TIME-OPTIMALITY-COMPLETENESS
 ![image](Img/img90.jpg)
+
 ![image](Img/img91.jpg)
+
 ![image](Img/img92.jpg)
+
 ![image](Img/img93.jpg)
+
 ![image](Img/img94.jpg)
 
 
@@ -278,14 +283,9 @@ These algorithms brute-force their way through the search space systematically w
 
 # `#06: Informed Search Algorithms:`
 
-<br>
-<br>
-
-
-
----
-
 ### Informed Search (Heuristic Search)
+
+`**আচ্ছা, huristics বলতে অনুমান। যেমন, আমি একটা বই কিনবো, দাম মনে করলাম ১০০ টাকা এই যে দামটা যে অনুমান করলাম এইটাও একটা huristics।**`
 
 These algorithms use a **heuristic function**, denoted as **h(n)**, to guide the search.
 
@@ -322,13 +322,36 @@ These algorithms use a **heuristic function**, denoted as **h(n)**, to guide the
 | **Space Complexity** | O(b^d) [a big problem] | O(b^d) [still a problem, but often better in practice] |
 | **Examples** | BFS, DFS, Uniform-Cost Search | Greedy Best-First, A* |
 
-### Analogy: Finding a Book in a Library
+---
 
-*   **Uninformed Search (BFS):** You start at the entrance and look at every book on the first shelf of the first aisle, then the second shelf, and so on. After finishing an aisle, you move to the next one. You are guaranteed to find the book but it will take a very long time.
-*   **Uninformed Search (DFS):** You go to the first aisle and go all the way to the back of the library, checking every book. If you don't find it, you go back to the entrance and try the second aisle the same way.
-*   **Informed Search (Greedy Best-First):** You see a sign that says "History Section ->". You follow it. Then you see another sign that says "20th Century History". You follow that. You're getting "warmer" quickly, but you might miss the book if it's misfiled or if the signs are slightly misleading.
-*   **Informed Search (A*):** You use a combination of clues: how far you've walked from the entrance (`g(n)`) and the signs pointing to the history section (`h(n)`). You find the shortest path that balances the effort you've already expended and the estimated effort remaining. This is the optimal strategy.
+### Greedy Best-First Search:
 
+![image](Img/img95.jpg)
+
+![image](Img/img96.jpg)
+
+![image](Img/img97.jpg)
+
+
+### A* Search:
+
+![image](Img/img98.jpg)
+![image](Img/img99.jpg)
+![image](Img/img100.jpg)
+
+
+#### The A* algorithm is a popular pathfinding and graph traversal algorithm used in computer science, particularly for finding the shortest path from a start node to a goal node in a weighted graph. Its admissibility is a critical property in the context of heuristic search algorithms, as it determines whether the algorithm guarantees an optimal solution.
+
+### What is Admissibility?
+An algorithm is admissible if it always finds the optimal solution (i.e., the shortest path or least-cost path) to the goal, assuming such a solution exists, in the context of a search problem with non-negative edge costs.
+
+<br>
+
+![image](Img/img101.jpg)
+
+![image](Img/img102.jpg)
+
+![image](Img/img103.jpg)
 
 
 <br>
