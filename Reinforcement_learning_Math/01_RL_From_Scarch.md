@@ -214,20 +214,55 @@ These algorithms brute-force their way through the search space systematically w
 ![image](Img/img81.jpg)
 ![image](Img/img82.jpg)
 
+<br>
+
+### [BFS_CODE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/01_bfs.py)
+
+<br>
+
 ## DFS:
 ![image](Img/img83.jpg)
 ![image](Img/img84.jpg)
+
+<br>
+
+### [DFS_CODE_TREE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/02_dfs_tree.py)
+
+### [DFS_CODE_GRAPH](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/03_dfs_graph.py)
+
+<br>
 
 ## DLS:
 ![image](Img/img85.jpg)
 ![image](Img/img86.jpg)
 
+
+<br>
+
+### [DLS_CODE_ONE]https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/04_dls_graph1.py)
+
+### [DLS_CODE_TWO](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/5_dls_graph2.py)
+
+<br>
+
 ## IDDLS:
 ![image](Img/img87.jpg)
+
+<br>
+
+### [IDDLS_CODE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/6_Iddfs.py)
+
+<br>
 
 ## UCS: 
 ![image](Img/img88.jpg)
 ![image](Img/img89.jpg)
+
+<br>
+
+### [UCS_CODE](https://github.com/yasin-arafat-05/jupyterNotebook/blob/main/Reinforcement_learning_Math/code/uninformtedSearch/7_ucs.py)
+
+<br>
 
 ## SPACE-TIME-OPTIMALITY-COMPLETENESS
 ![image](Img/img90.jpg)
