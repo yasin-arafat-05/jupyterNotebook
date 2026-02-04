@@ -179,3 +179,39 @@
 
 
 
+# More Topics from my note: 
+- 1. Hypothesis Testing
+    - Test of hypothesis for large samples
+    - Test of hypothesis for small samples
+
+- Test of hypothesis of Large Population samples(n>30->CLT):
+    - Population mean 
+    - Difference between two population mean 
+    - Difference between two populatin std.
+    - Population Proportion
+    - Difference between two population proportions
+
+- Test of hypothesis for small samples (n<30)
+    - T-test
+    - Fisher's Z-test 
+    - F-test 
+
+- T-test
+    - Test of hypothesis about population Mean 
+    - Test of hypothesis about difference between two means in case of independent samples.
+    - Test of hypothesis about difference between two means with depended samples on paired-t-test.
+    - Test of hypothesis about co-efficient of correlation
+
+- Fisher's Z-Test
+- F-test (Variance Ratio Test)
+
+
+- 2. Introduction to Chi-Square-Test
+    - As a test for population variance 
+    - As a non-parametric test
+        - As a test of goodness of fit
+        - As a test of independence of a attributes
+    - Yates Correlation 
+    - Introduction to test of Equality
+    - Introduction to test of Homogenity 
+
