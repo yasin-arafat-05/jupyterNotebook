@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+MathForML/Statistics/code/2020_Yellow_Taxi_Trip_Data.csv
 
 # C extensions
 *.so
